@@ -1,9 +1,5 @@
 # Magic Eight Ball
-An iOS app in which you can ask simple yes or no questions and shaking the 8-ball for an answer.
-
-
-### Features
-
+An iOS app that generates random ideas to make startups.
 
 ### Basic App Walk-through
 ![](ezgif.com-resize.gif)
