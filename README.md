@@ -6,7 +6,7 @@ An iOS app in which you can ask simple yes or no questions and shaking the 8-bal
 
 
 ### Basic App Walk-through
-![]()
+![](ezgif.com-resize.gif)
 
 
 ### Run Locally
