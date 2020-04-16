@@ -2,16 +2,16 @@
 
 # Juniors Intensive Deliverable Proposal
 
-**My Name:** 
+**My Name: Sebastian Abarca** 
 
 
-**Project Name:** 
+**Project Name: Magic Eight Ball** 
 
 
-**Is your project New or Old?**
+**Is your project New or Old?: New**
 
 
-**Is your project Solo or Team?**
+**Is your project Solo or Team?: Solo**
 
 
 ## Description
@@ -92,6 +92,6 @@
 ### Sign off
 
 **Student Name:**                
-> Name / Date
+> Sebastian Abarca / 04/13/2020
 **Make School Advisor Name**
-> TBD
+> Dan Morse/Mitchell Hudson
