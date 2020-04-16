@@ -12,7 +12,9 @@ class ViewController: UIViewController {
     
     // MARK: - Properties
     
-    let answers = ["Yes, definitely", "It is certain", "Without a doubt", "Yes", "Most likely", "Sure, why not?", "Same", "Tell me more", "Out to lunch", "Reply hazy, try again", "Ask again later", "The cake is a lie", "42", "TMI", "Very doubtful", "Don't count on it", "My reply is no", "Absolutely not"]
+    let answers = ["Make School", "Uber", "Netflix", "Facebook", "Google", "Kickstarter", "Spotify", "Airbnb", "Snapchat", "YouTube", "Dropbox", "Amazon", "Craigslist", "Tinder", "Instagram", "Tesla", "Twitter", "SpaceX"]
+
+    let answers2 = ["Dogs", "Books", "Gamers", "Star Wars", "Bitcoin", "Goats", "Zombies", "Rich People", "Swimmers", "Florida", "Vampires", "Dragons", "Internet of Things", "Mars", "Cryptocurrency", "Mosquito Repellent", "Fidget Spinners", "Sun Screen", "Water Bottles", "Lost Travelers", "Superheroes"]
 
     
     func generateAnswer() {
@@ -21,8 +23,14 @@ class ViewController: UIViewController {
         answerLabel.text = answers[randomIndex]
     }
     
+    func generateAnswer2() {
+        let randomIndex = Int.random(in: 0..<answers2.count)
+        
+        answerLabel2.text = answers2[randomIndex]
+    }
     @IBOutlet weak var answerLabel: UILabel!
     
+    @IBOutlet weak var answerLabel2: UILabel!
     @IBOutlet weak var shakeButton: UIButton!
     
     override func viewDidLoad() {
@@ -35,6 +43,7 @@ class ViewController: UIViewController {
 //        answerLabel.text = "button was tapped"
         
         generateAnswer()
+        generateAnswer2()
 
         
         // 1
@@ -48,6 +57,7 @@ class ViewController: UIViewController {
         guard motion == .motionShake else { return }
         
         generateAnswer()
+        generateAnswer2()
     }
     
     
