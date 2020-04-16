@@ -1,4 +1,4 @@
-# Magic Eight Ball
+# Startup Ideas Generator
 An iOS app that generates random ideas to make startups.
 
 ### Basic App Walk-through
