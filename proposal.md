@@ -1,5 +1,3 @@
-# MagicEightBall
-
 # Juniors Intensive Deliverable Proposal
 
 **My Name: Sebastian Abarca** 
