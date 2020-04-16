@@ -5,7 +5,7 @@
 **My Name: Sebastian Abarca** 
 
 
-**Project Name: Magic Eight Ball** 
+**Project Name: Startup Ideas Generator** 
 
 
 **Is your project New or Old?: New**
@@ -33,41 +33,6 @@
 
 ## Car
 **ONE additional feature** 
-
-
-## Personal Achievement Goals:
-
-**Each teammate must achieve 2 of 3 of their self-set personal achievement goals. If you're not on a team, delete the other teammate sections as needed.**
-
-### Teammate 1
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 2
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 3
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 4
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-
-## Wireframes
-
-**Insert wireframe pictures here**
-
 
 ## Evaluation
 
