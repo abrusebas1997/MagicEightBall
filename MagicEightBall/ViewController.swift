@@ -10,11 +10,15 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var answerLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func shakeButtonTapped(_ sender: Any) {
+        print("Shake it like a polaroid picture!")
+    }
+    
 }
 
