@@ -16,23 +16,21 @@
 
 ## Description
 
-**Write a paragraph summary of the current status of your project, what you hope to achieve during the intensive, how and why**
+**An iOS app that generates random ideas to make startups. In this intensive I hope to achieve more knowledge on iOS mobile aps**
 
 ## Challenges I Anticipate
 
-**List out the challenges you anticipate for completing this project**
+**Discover all the functions xcode has, learn how to write code on swift**
 
 ## Skateboard
 
-**ONE SINGLE aspect of product. Consider: build backend for SPD 1.2 front end, CRUD one resource, use API or library, authentication etc.**
-
-**Start coding and finish “Skateboard” feature before beginning “Bike”.** 
+**Making the design of the app I want to make**
 
 ## Bike
-**ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use** 
+**Creating the UI for the app** 
 
 ## Car
-**ONE additional feature** 
+**Connecting the design and the UI** 
 
 ## Evaluation
 
